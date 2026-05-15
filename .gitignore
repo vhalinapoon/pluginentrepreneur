@@ -141,3 +141,18 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Python virtual env (used for image-processing scripts)
+.venv/
+__pycache__/
+*.pyc
+
+# rembg / pooch model cache
+.cache/
+
+# Source-image previews (intermediate, not for deploy)
+assets/preview-*.png
+assets/example-reference.png
+
+# macOS
+.DS_Store
