@@ -31,10 +31,10 @@ export default function Footer() {
 
         <div className="flex flex-wrap items-center gap-6">
           <a
-            href="mailto:hello@pluginentrepreneur.com"
+            href="mailto:vhalinapoon@gmail.com"
             className="link-under hover:text-foreground"
           >
-            hello@pluginentrepreneur.com
+            vhalinapoon@gmail.com
           </a>
           <a
             href="https://www.linkedin.com/in/vhp/"

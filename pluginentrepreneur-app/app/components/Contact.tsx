@@ -31,10 +31,10 @@ export default function Contact() {
 
               <div className="mt-10 flex flex-wrap items-center gap-4">
                 <a
-                  href="mailto:hello@pluginentrepreneur.com"
+                  href="mailto:vhalinapoon@gmail.com"
                   className="group inline-flex items-center gap-3 rounded-full bg-background text-foreground px-6 py-4 text-base font-medium transition-colors hover:bg-accent hover:text-background"
                 >
-                  <span>hello@pluginentrepreneur.com</span>
+                  <span>vhalinapoon@gmail.com</span>
                   <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-0.5" />
                 </a>
                 <a

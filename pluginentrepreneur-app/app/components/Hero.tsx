@@ -129,9 +129,9 @@ function PortraitPanel() {
       </div>
 
       <div className="pointer-events-none absolute inset-0 flex items-end justify-center">
-        <div className="relative w-[105%] translate-x-2 translate-y-5 aspect-[878/1055]">
+        <div className="relative w-[250%] -translate-x-4 aspect-[560/489]">
           <Image
-            src="/victoria-cropped.png"
+            src="/victoria-hero-v2.png"
             alt="Victoria, Plug In Entrepreneur"
             fill
             priority
